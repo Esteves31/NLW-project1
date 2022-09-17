@@ -128,7 +128,6 @@ main section:nth-child(3){
     animation-delay: .8s;
 }
 
-
 /* Definindo o que a animação fará */
 @keyframes fromTop {
     from{
